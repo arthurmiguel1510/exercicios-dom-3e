@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+
+ <input type="number" id="meuInput" placeholder="Digite sua idade:">
+
+<script>
+
+let verificar;
+const numero = 0;
+let maioridade;
+let menoridade;
+let barrado;
+let aceito;
+const input = document.getElementById("meuInput")
+
+maioridade = aceito;
+menoridade = barrado;
+
+
+
+
+
+
+
+</script>
+</body>
+</html>
